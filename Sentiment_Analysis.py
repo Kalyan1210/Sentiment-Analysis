@@ -2,10 +2,8 @@
 
 # %% Import required libraries
 import tweepy
-import pandas as pd
 import re
 from collections import Counter
-from textblob import TextBlob
 import streamlit as st
 import matplotlib.pyplot as plt
 from transformers import pipeline
